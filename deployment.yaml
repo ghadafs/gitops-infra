@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: react-app
-          image: ghadafs/gitops01:604ac3b39a717bbceb7e0386debaed67fd7857bb
+          image: ghadafs/gitops01:6554da3db98c982a071195e4695948e7f16546be
           imagePullPolicy: Always
           ports:
             - containerPort: 80
